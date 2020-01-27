@@ -10,3 +10,6 @@ This project finds the faces in the given frame and detects the following in the
 -Gaze Direction
 
 -Face Direction
+
+The shape predictor file can be accessed from: https://github.com/fidankhalilbayli/Facial-Landmarks-vs-Optical-Flow-Performance-while-Analyzing-the-Motion-of-Keypoints
+
